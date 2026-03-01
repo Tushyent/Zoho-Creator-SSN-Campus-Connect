@@ -1,7 +1,6 @@
 # SSN Campus Connect - Using Zoho Creator
 
 ## 🔗 Link:
-[Click here to access SSN Campus Connect](https://creatorapp.zoho.in/tushyent2410053_ssn/ssn-campus-connect)
 https://creatorapp.zoho.in/tushyent2410053_ssn/ssn-campus-connect
 ---
 
